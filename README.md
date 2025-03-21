@@ -16,5 +16,4 @@ Technologies:
 Goals:
 Provide insights into stock performance and assist in investment decision-making.
 
-Кристијан Пржевски 213236 <br>
 Филип Кузманоски 215086
