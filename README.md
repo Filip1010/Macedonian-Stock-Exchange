@@ -21,4 +21,4 @@ Provide insights into stock performance and assist in investment decision-making
 ## Deployment:
 ### The project is currently being worked on for deployment. The web interface and features will be available shortly. Stay tuned for updates!
 
-Филип Кузманоски 215086
+
